@@ -1,0 +1,35 @@
+.itemContainer {
+    display: flex;
+    padding: 10px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.1);
+    border-radius: 10px;
+    align-items: center;
+    overflow: hidden;
+}
+
+.imageContainer {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.nameContainer {
+    margin-left: 50px;
+}
+
+.name {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.nameUnit {
+    font-size: larger;
+    font-weight: bold;
+}
